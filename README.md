@@ -1,2 +1,3 @@
 # Myndcoin
 Myndcoin
+Mynd
